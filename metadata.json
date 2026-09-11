@@ -1,0 +1,6 @@
+{
+  "name": "Interactive Games & Sound Design",
+  "description": "A polished interactive suite featuring Spend Your Money, Earn the Gold, How Much Everything Moved, and Stacking the Boxes with a satisfying, minimal procedural sound system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
